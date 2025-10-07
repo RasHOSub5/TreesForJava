@@ -1,5 +1,5 @@
 
-![Logo](https://media.discordapp.net/attachments/827018467231268875/1414364818563010650/Logo.png?ex=68bf4d62&is=68bdfbe2&hm=a4c558ffbc88366c5b361e9b7a40faba4f3bc177161fcdd43d690f06366239e6&=&format=webp&quality=lossless&width=996&height=206)
+![Logo](Logo.png)
 
 
 # 🌳 Data Structures with Trees
